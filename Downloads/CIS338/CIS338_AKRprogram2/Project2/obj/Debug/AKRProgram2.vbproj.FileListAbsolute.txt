@@ -1,0 +1,12 @@
+C:\Users\AlejandroKrasovsky\Downloads\Project2Skeleton\AKRprogram2\Project2\bin\Debug\akrprogram2.exe.config
+C:\Users\AlejandroKrasovsky\Downloads\Project2Skeleton\AKRprogram2\Project2\obj\Debug\akrprogram2.exe
+C:\Users\AlejandroKrasovsky\Downloads\Project2Skeleton\AKRprogram2\Project2\obj\Debug\akrprogram2.xml
+C:\Users\AlejandroKrasovsky\Downloads\Project2Skeleton\AKRprogram2\Project2\obj\Debug\akrprogram2.pdb
+C:\Users\AlejandroKrasovsky\Downloads\Project2Skeleton\AKRprogram2\Project2\bin\Debug\akrprogram2.exe
+C:\Users\AlejandroKrasovsky\Downloads\Project2Skeleton\AKRprogram2\Project2\bin\Debug\akrprogram2.pdb
+C:\Users\AlejandroKrasovsky\Downloads\Project2Skeleton\AKRprogram2\Project2\bin\Debug\akrprogram2.xml
+C:\Users\AlejandroKrasovsky\Downloads\Project2Skeleton\AKRprogram2\Project2\obj\Debug\AKRProgram2.vbprojResolveAssemblyReference.cache
+C:\Users\AlejandroKrasovsky\Downloads\Project2Skeleton\AKRprogram2\Project2\obj\Debug\akrprogram2.frmChild.resources
+C:\Users\AlejandroKrasovsky\Downloads\Project2Skeleton\AKRprogram2\Project2\obj\Debug\akrprogram2.frmMain.resources
+C:\Users\AlejandroKrasovsky\Downloads\Project2Skeleton\AKRprogram2\Project2\obj\Debug\akrprogram2.Resources.resources
+C:\Users\AlejandroKrasovsky\Downloads\Project2Skeleton\AKRprogram2\Project2\obj\Debug\AKRProgram2.vbproj.GenerateResource.Cache
